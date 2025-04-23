@@ -1,0 +1,8 @@
+uiautomation
+Pillow
+pywin32
+psutil
+redis
+pyperclip
+fastapi
+uvicorn
